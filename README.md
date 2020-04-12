@@ -1,5 +1,7 @@
-# sorting-algorithms
-This repository contains implementations of three sorting algorithms: insertion, bubble, and selection sort. The purpose of the codebase is to determine the efficiency of these algorithms as measured by wall clock time.
+# quadratic-sorting
+This repository contains implementations of three sorting algorithms: insertion, bubble, and selection sort. The program `TestEfficiency` outputs information used to compare the efficiency of these algorithms as measured by wall clock time.
+
+All three of these algorithms have a quadratic O(n2) time complexity.
 
 To get started with the code, download the repository and navigate to the working directory. Compile the code with `javac EfficiencyTest.java` and run with `java EfficiencyTest`. 
 
